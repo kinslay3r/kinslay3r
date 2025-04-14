@@ -5,7 +5,7 @@
 🧑‍💼 Currently working for the local school system but looking to get into Software Engineering.<br>
 🏫 Studied [Information Sciences and Technology](https://ist.psu.edu/) at Penn State University<br>
 💻 Streaming programming and playing video games on [Twitch](https://www.twitch.tv/kinslay3r)<br>
-📖 Currently taking [CS50P](https://cs50.harvard.edu/python/2022/)<br>
+📖 Currently taking [CS50](https://cs50.harvard.edu/x/2025/)<br>
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
 
